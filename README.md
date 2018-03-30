@@ -1,4 +1,4 @@
-<p align="center"> <b> MIC-1 (32-bit Computer) </b>> </p>
+<p align="center"> ***<b> MIC-1 (32-bit Computer) </b>*** </p>
 
 **Creators: Philip Butts, Joanna Fass, Devin Smaldore**  
 *Class: Assembly Language and Architecture*
